@@ -20,8 +20,9 @@ To utilize the project install inquirer, axios, create-html, and html-pdf and ut
 
 The project takes a GitHub username and user's favorite color and returns a pdf file showcasing their GitHub information utilizing styling with their favorite color.
 
-## Credits
+## Demo
 
+![Developer Profile Generator Demo](demo/demo.gif)
 
 ## License
 
