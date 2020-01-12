@@ -1,0 +1,26 @@
+{
+  "name": "developer-profile",
+  "version": "1.0.0",
+  "description": "This project was created to take a GitHub username and favorite color and generate a pdf that contains their corresponding GitHub information\r in a color scheme that corresponds to the users favorite color. The pdf includes links to both the GitHub and blog site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsriley/developer-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsriley/developer-profile/issues"
+  },
+  "homepage": "https://github.com/vsriley/developer-profile#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "create-html": "^4.1.0",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.3"
+  }
+}
